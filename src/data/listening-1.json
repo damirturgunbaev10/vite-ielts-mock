@@ -1,0 +1,358 @@
+{
+  "testId": "listening-academic-01",
+  "title": "IELTS Listening Practice Test 1",
+  "timeLimitMinutes": 45,
+  "audioUrl": "/audio/listening-test-1.mp3",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "description": "Questions 1-10. Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+      "context": "A woman is calling a sports centre to enquire about membership options.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "input",
+          "label": "First name of caller:",
+          "correctAnswer": "Sarah"
+        },
+        {
+          "id": 2,
+          "type": "input",
+          "label": "Membership type chosen:",
+          "correctAnswer": "Annual"
+        },
+        {
+          "id": 3,
+          "type": "input",
+          "label": "Monthly fee (£):",
+          "correctAnswer": "45"
+        },
+        {
+          "id": 4,
+          "type": "input",
+          "label": "Date of birth (day/month/year):",
+          "correctAnswer": "14/03/1990"
+        },
+        {
+          "id": 5,
+          "type": "input",
+          "label": "Postcode:",
+          "correctAnswer": "SW1A 2AA"
+        },
+        {
+          "id": 6,
+          "type": "input",
+          "label": "Preferred class on Monday:",
+          "correctAnswer": "Yoga"
+        },
+        {
+          "id": 7,
+          "type": "input",
+          "label": "Locker number assigned:",
+          "correctAnswer": "317"
+        },
+        {
+          "id": 8,
+          "type": "input",
+          "label": "Name of personal trainer recommended:",
+          "correctAnswer": "Davies"
+        },
+        {
+          "id": 9,
+          "type": "input",
+          "label": "Day of induction session:",
+          "correctAnswer": "Thursday"
+        },
+        {
+          "id": 10,
+          "type": "input",
+          "label": "Email address for confirmation:",
+          "correctAnswer": "sarah.green@email.com"
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "description": "Questions 11-20.",
+      "context": "A tour guide is giving visitors information about a local history museum.",
+      "questions": [
+        {
+          "id": "11-12",
+          "type": "checkbox",
+          "question": "Questions 11 and 12. Which TWO reasons are given for the recent museum renovation?",
+          "maxSelect": 2,
+          "options": [
+            "A. To attract more international tourists",
+            "B. To comply with new safety regulations",
+            "C. To expand the permanent collection",
+            "D. To fix structural damage to the roof",
+            "E. To upgrade the heating system"
+          ],
+          "correctAnswer": [
+            "B. To comply with new safety regulations",
+            "E. To upgrade the heating system"
+          ]
+        },
+        {
+          "id": 13,
+          "type": "select",
+          "question": "Question 13. The Victorian Gallery",
+          "label": "Match the location:",
+          "options": [
+            "A. Ground Floor",
+            "B. First Floor",
+            "C. Second Floor",
+            "D. Basement East",
+            "E. Basement West"
+          ],
+          "correctAnswer": "B. First Floor"
+        },
+        {
+          "id": 14,
+          "type": "select",
+          "question": "Question 14. The Sculpture Garden",
+          "label": "Match the location:",
+          "options": [
+            "A. Ground Floor",
+            "B. First Floor",
+            "C. Second Floor",
+            "D. Basement East",
+            "E. Basement West"
+          ],
+          "correctAnswer": "A. Ground Floor"
+        },
+        {
+          "id": 15,
+          "type": "select",
+          "question": "Question 15. The Interactive Children's Zone",
+          "label": "Match the location:",
+          "options": [
+            "A. Ground Floor",
+            "B. First Floor",
+            "C. Second Floor",
+            "D. Basement East",
+            "E. Basement West"
+          ],
+          "correctAnswer": "D. Basement East"
+        },
+        {
+          "id": 16,
+          "type": "radio",
+          "question": "Question 16. How much is the general admission fee for adults?",
+          "options": ["A. £12.50", "B. £15.00", "C. £18.00"],
+          "correctAnswer": "B. £15.00"
+        },
+        {
+          "id": 17,
+          "type": "radio",
+          "question": "Question 17. What is the maximum group size for guided tours?",
+          "options": ["A. 15 people", "B. 20 people", "C. 25 people"],
+          "correctAnswer": "B. 20 people"
+        },
+        {
+          "id": 18,
+          "type": "radio",
+          "question": "Question 18. Where can visitors leave their umbrellas and large bags?",
+          "options": [
+            "A. At the main ticket desk",
+            "B. In the cloakroom near the café",
+            "C. In the secure lockers outside"
+          ],
+          "correctAnswer": "B. In the cloakroom near the café"
+        },
+        {
+          "id": 19,
+          "type": "radio",
+          "question": "Question 19. On which day is the museum closed to the public?",
+          "options": ["A. Sunday", "B. Monday", "C. Tuesday"],
+          "correctAnswer": "B. Monday"
+        },
+        {
+          "id": 20,
+          "type": "radio",
+          "question": "Question 20. What is the name of the museum's newest temporary exhibit?",
+          "options": [
+            "A. Voices of the Past",
+            "B. Industrial Revolution",
+            "C. The Roman Settlement"
+          ],
+          "correctAnswer": "A. Voices of the Past"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "description": "Questions 21-30.",
+      "context": "Two university students, James and Priya, discuss their research project on urban green spaces with their tutor, Dr. Hoffman.",
+      "questions": [
+        {
+          "id": "21-22",
+          "type": "checkbox",
+          "question": "Questions 21 and 22. Which TWO problems did James identify with their survey data?",
+          "maxSelect": 2,
+          "options": [
+            "A. The sample size is too small",
+            "B. The questions were misunderstood by respondents",
+            "C. The data was collected in only one season",
+            "D. There was a gender imbalance in the respondents",
+            "E. The digital recording equipment failed"
+          ],
+          "correctAnswer": [
+            "A. The sample size is too small",
+            "C. The data was collected in only one season"
+          ]
+        },
+        {
+          "id": 23,
+          "type": "select",
+          "question": "Question 23. Writing the Introduction",
+          "label": "Who will be responsible for this task?",
+          "options": ["A. James", "B. Priya", "C. Both James and Priya"],
+          "correctAnswer": "A. James"
+        },
+        {
+          "id": 24,
+          "type": "select",
+          "question": "Question 24. Formatting the Bibliography",
+          "label": "Who will be responsible for this task?",
+          "options": ["A. James", "B. Priya", "C. Both James and Priya"],
+          "correctAnswer": "B. Priya"
+        },
+        {
+          "id": 25,
+          "type": "select",
+          "question": "Question 25. Checking the statistical analysis",
+          "label": "Who will be responsible for this task?",
+          "options": ["A. James", "B. Priya", "C. Both James and Priya"],
+          "correctAnswer": "C. Both James and Priya"
+        },
+        {
+          "id": 26,
+          "type": "radio",
+          "question": "Question 26. What does Dr. Hoffman suggest they focus on in their conclusion?",
+          "options": [
+            "A. Policy recommendations for local government",
+            "B. Further areas for academic research",
+            "C. Comparison with international case studies"
+          ],
+          "correctAnswer": "A. Policy recommendations for local government"
+        },
+        {
+          "id": 27,
+          "type": "radio",
+          "question": "Question 27. Why does Priya think their methodology is valid despite its limitations?",
+          "options": [
+            "A. It follows a recognised academic framework",
+            "B. It was approved by the ethics committee",
+            "C. It matches the approach used in similar studies"
+          ],
+          "correctAnswer": "C. It matches the approach used in similar studies"
+        },
+        {
+          "id": 28,
+          "type": "radio",
+          "question": "Question 28. What do the students agree to add to their final report?",
+          "options": [
+            "A. A map of surveyed locations",
+            "B. A glossary of technical terms",
+            "C. An appendix with raw data"
+          ],
+          "correctAnswer": "C. An appendix with raw data"
+        },
+        {
+          "id": 29,
+          "type": "radio",
+          "question": "Question 29. What is Dr. Hoffman's main criticism of the literature review?",
+          "options": [
+            "A. It relies too heavily on older sources",
+            "B. It does not include enough local research",
+            "C. It is too long relative to the rest of the report"
+          ],
+          "correctAnswer": "A. It relies too heavily on older sources"
+        },
+        {
+          "id": 30,
+          "type": "radio",
+          "question": "Question 30. How does Dr. Hoffman describe the students' overall progress?",
+          "options": [
+            "A. Ahead of schedule",
+            "B. On track but needs refinement",
+            "C. Behind and requiring urgent attention"
+          ],
+          "correctAnswer": "B. On track but needs refinement"
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "description": "Questions 31-40. Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "context": "A lecture on the history and impact of bioluminescence in marine organisms.",
+      "questions": [
+        {
+          "id": 31,
+          "type": "input",
+          "label": "Percentage of deep-sea creatures capable of bioluminescence:",
+          "correctAnswer": "76"
+        },
+        {
+          "id": 32,
+          "type": "input",
+          "label": "Chemical substance responsible for light production in organisms:",
+          "correctAnswer": "luciferin"
+        },
+        {
+          "id": 33,
+          "type": "input",
+          "label": "Primary target that the anglerfish uses bioluminescence to attract:",
+          "correctAnswer": "prey"
+        },
+        {
+          "id": 34,
+          "type": "input",
+          "label": "Name of the defence mechanism where an organism ejects glowing fluid:",
+          "correctAnswer": "burglar alarm"
+        },
+        {
+          "id": 35,
+          "type": "input",
+          "label": "Type of illumination used by squid to hide their silhouettes from predators below:",
+          "correctAnswer": "counter-illumination"
+        },
+        {
+          "id": 36,
+          "type": "input",
+          "label": "The biggest challenge in studying deep-sea bioluminescence is that light is disrupted when organisms are brought to the:",
+          "correctAnswer": "surface"
+        },
+        {
+          "id": 37,
+          "type": "input",
+          "label": "In modern medicine, bioluminescence is used as a marker to track the spread of:",
+          "correctAnswer": "cancer cells"
+        },
+        {
+          "id": 38,
+          "type": "input",
+          "label": "Name of the protein used in laboratory research derived from jellyfish:",
+          "correctAnswer": "GFP"
+        },
+        {
+          "id": 39,
+          "type": "input",
+          "label": "Depth (in metres) at which most bioluminescent activity is observed:",
+          "correctAnswer": "200"
+        },
+        {
+          "id": 40,
+          "type": "input",
+          "label": "Field of technology currently exploring bioluminescence for sustainable lighting:",
+          "correctAnswer": "bioengineering"
+        }
+      ]
+    }
+  ]
+}

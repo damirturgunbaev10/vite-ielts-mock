@@ -1,0 +1,20 @@
+{
+  "title": "IELTS Writing Academic Test 1",
+  "timeLimitMinutes": 60,
+  "parts": [
+    {
+      "partNumber": 1,
+      "type": "task1",
+      "title": "Writing Task 1",
+      "instruction": "You should spend about 20 minutes on this task. Write at least 150 words.",
+      "prompt": "The graph below shows the consumption of fish and different kinds of meat in a European country between 1979 and 2004."
+    },
+    {
+      "partNumber": 2,
+      "type": "task2",
+      "title": "Writing Task 2",
+      "instruction": "You should spend about 40 minutes on this task. Write at least 250 words.",
+      "prompt": "In many countries, very few young people read newspapers or watch TV news. Why is this? What can be done to encourage them to take more interest in news?"
+    }
+  ]
+}

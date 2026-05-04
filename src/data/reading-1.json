@@ -1,0 +1,475 @@
+{
+  "testId": "reading-academic-01",
+  "title": "IELTS Academic Reading Practice Test 1",
+  "timeLimitMinutes": 60,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "The Permafrost Problem",
+      "instruction": "Read the passage and answer Questions 1–13.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Permafrost — ground that remains frozen for at least two consecutive years — underlies roughly a quarter of the Northern Hemisphere's land surface. Found across vast stretches of Siberia, Alaska, Canada, and the Tibetan Plateau, it acts as a massive natural freezer, locking away organic material that has accumulated over thousands of years. Scientists have long understood that permafrost plays a significant role in Earth's climate system, but only recently have they begun to fully appreciate the scale of the threat its thawing poses."
+        },
+        {
+          "id": "B",
+          "text": "The critical concern is carbon. Permafrost soils store an estimated 1.5 trillion tonnes of organic carbon — nearly twice the amount currently in the atmosphere. As long as the ground remains frozen, this carbon stays inert. But as global temperatures rise, the permafrost thaws, and the microbial decomposition of previously frozen organic matter releases carbon dioxide and methane into the atmosphere. This creates a feedback loop: warming causes thaw, thaw releases greenhouse gases, and those gases cause further warming. Some climate models suggest this self-reinforcing cycle could add the equivalent of several decades' worth of current human emissions to the atmosphere over the coming century."
+        },
+        {
+          "id": "C",
+          "text": "On the ground, the consequences are already visible. In parts of Siberia and northern Canada, the landscape is being dramatically reshaped. Thermokarst — uneven, hummocky terrain that forms when ice-rich permafrost thaws — is spreading across the tundra. Lakes appear overnight where firm ground once stood. Hillsides slump and coastlines crumble as the structural integrity provided by frozen ground disappears. Infrastructure is suffering too: roads buckle, pipelines shift, and buildings tilt or sink, threatening communities that have depended on the frozen landscape for generations."
+        },
+        {
+          "id": "D",
+          "text": "Arctic and sub-Arctic Indigenous communities are among the most immediately affected. In Alaska's coastal villages, the combination of permafrost thaw and reduced sea ice — which previously buffered shorelines against storm surges — is accelerating coastal erosion at alarming rates. Several villages have voted to relocate entirely, a process that is both extraordinarily costly and deeply disruptive to cultural identity and community cohesion. For many Indigenous peoples, the landscape is not merely a physical environment but a living repository of cultural memory and traditional knowledge."
+        },
+        {
+          "id": "E",
+          "text": "Researchers are deploying increasingly sophisticated tools to monitor and understand permafrost dynamics. Remote sensing satellites can detect subtle changes in ground elevation caused by thawing. Borehole temperature sensors drilled deep into the earth provide direct readings of subsurface warming trends. Eddy covariance towers measure the exchange of carbon dioxide and methane between the land surface and the atmosphere in real time. Collectively, these monitoring systems are generating vast datasets that are helping scientists refine their models — though significant uncertainties remain, particularly around the timing and regional variability of thaw."
+        },
+        {
+          "id": "F",
+          "text": "Some researchers are exploring intervention strategies, though none are without controversy. One approach, being tested in parts of Siberia, involves re-wilding degraded tundra with large grazing animals such as bison and horses. The theory is that herds compact snow during winter, allowing cold to penetrate deeper into the ground and keep it frozen for longer. Early results from an experimental reserve called Pleistocene Park have been tentatively promising, but scaling such an approach across millions of square kilometres remains a daunting prospect."
+        },
+        {
+          "id": "G",
+          "text": "Ultimately, scientists are in broad agreement that the only reliable way to slow permafrost thaw is to limit global warming itself. Every fraction of a degree matters: studies suggest that holding warming to 1.5°C rather than 2°C could preserve permafrost across an area roughly the size of Greenland. Yet even achieving the more ambitious climate targets set under the Paris Agreement would not halt permafrost thaw entirely — it would merely slow it. The permafrost problem, many researchers conclude, is not something that can be solved; it can only be managed, and the urgency of that management is growing with every passing year."
+        }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "type": "TFN",
+          "questionText": "Permafrost is defined as ground that stays frozen for a minimum of two consecutive years."
+        },
+        {
+          "id": 2,
+          "type": "TFN",
+          "questionText": "Permafrost stores less organic carbon than is currently present in the atmosphere."
+        },
+        {
+          "id": 3,
+          "type": "TFN",
+          "questionText": "All climate models agree precisely on how much carbon permafrost thaw will release."
+        },
+        {
+          "id": 4,
+          "type": "TFN",
+          "questionText": "Thermokarst terrain is caused by the thawing of ice-rich permafrost."
+        },
+        {
+          "id": 5,
+          "type": "TFN",
+          "questionText": "Several Indigenous Alaskan coastal villages have voted to relocate."
+        },
+        {
+          "id": 6,
+          "type": "TFN",
+          "questionText": "Eddy covariance towers measure changes in ground elevation from space."
+        },
+        {
+          "id": 7,
+          "type": "TFN",
+          "questionText": "The passage states that the Pleistocene Park experiment has produced conclusive proof of its effectiveness."
+        },
+        {
+          "id": 8,
+          "type": "TFN",
+          "questionText": "Researchers believe that reducing global warming is the only dependable way to slow permafrost thaw."
+        },
+        {
+          "id": 9,
+          "type": "FillBlank",
+          "questionText": "The __________ of previously frozen organic matter by microbes releases greenhouse gases into the atmosphere.",
+          "correctAnswer": "decomposition"
+        },
+        {
+          "id": 10,
+          "type": "FillBlank",
+          "questionText": "In Siberia and Canada, __________ terrain is spreading as ice-rich permafrost thaws.",
+          "correctAnswer": "thermokarst"
+        },
+        {
+          "id": 11,
+          "type": "FillBlank",
+          "questionText": "For Indigenous peoples, the landscape is described as a living repository of cultural memory and __________.",
+          "correctAnswer": "traditional knowledge"
+        },
+        {
+          "id": 12,
+          "type": "FillBlank",
+          "questionText": "The Pleistocene Park approach involves large grazing animals compacting __________ during winter.",
+          "correctAnswer": "snow"
+        },
+        {
+          "id": 13,
+          "type": "FillBlank",
+          "questionText": "Holding warming to 1.5°C rather than 2°C could preserve permafrost across an area the size of __________.",
+          "correctAnswer": "Greenland"
+        }
+      ],
+      "questionGroups": [
+        {
+          "groupType": "TFN",
+          "instruction": "Do the following statements agree with the information in the reading passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "questionIds": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "groupType": "FillBlank",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questionIds": [9, 10, 11, 12, 13]
+        }
+      ],
+      "correctAnswers": {
+        "1": "TRUE",
+        "2": "FALSE",
+        "3": "FALSE",
+        "4": "TRUE",
+        "5": "TRUE",
+        "6": "FALSE",
+        "7": "FALSE",
+        "8": "TRUE",
+        "9": "decomposition",
+        "10": "thermokarst",
+        "11": "traditional knowledge",
+        "12": "snow",
+        "13": "Greenland"
+      }
+    },
+    {
+      "partNumber": 2,
+      "title": "The Rise of the Gig Economy",
+      "instruction": "Read the passage and answer Questions 14–26.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "The term 'gig economy' refers to a labour market characterised by short-term contracts or freelance work as opposed to permanent jobs. Though the concept itself is not new — day labourers, seasonal agricultural workers, and travelling musicians have always operated in this fashion — the digitally mediated version of the gig economy is a distinctly twenty-first-century phenomenon. Platforms such as Uber, Deliveroo, Upwork, and Fiverr have transformed the scale and reach of contingent work, connecting millions of workers with clients or customers through algorithms and smartphone apps."
+        },
+        {
+          "id": "B",
+          "text": "The growth of these platforms has been remarkable. By the early 2020s, an estimated 1.1 billion people worldwide were engaged in some form of gig work, a figure that includes both those who rely on it as their primary income and those who use it to supplement wages from traditional employment. In the United Kingdom alone, the number of people working in the gig economy doubled between 2016 and 2021. Proponents argue that this expansion reflects workers' genuine desire for flexibility, pointing to surveys in which many gig workers report higher satisfaction with their work-life balance than their counterparts in conventional employment."
+        },
+        {
+          "id": "C",
+          "text": "Critics, however, paint a more troubling picture. They argue that the flexibility celebrated by platforms and some workers often masks precarity — an inability to predict or rely upon one's income from week to week. Unlike traditional employees, most gig workers are classified as independent contractors. This classification means they are ineligible for employment protections such as the minimum wage guarantee, paid sick leave, holiday entitlement, and employer contributions to pensions. In practice, critics argue, this transfers risk from corporations to individual workers, who bear the full consequences of illness, injury, or a downturn in demand."
+        },
+        {
+          "id": "D",
+          "text": "The legal battles over worker classification have been intense. In a landmark 2021 ruling, the UK Supreme Court determined that Uber drivers were workers rather than self-employed contractors, entitling them to minimum wage protections and holiday pay. Similar legal challenges have unfolded in France, Spain, and the United States, with mixed outcomes. Some jurisdictions have responded with legislation: California passed Proposition 22 in 2020, which controversially maintained the independent contractor status of app-based drivers and delivery workers while providing some limited benefits. The debate reflects deep disagreements about the nature of the employment relationship in the digital age."
+        },
+        {
+          "id": "E",
+          "text": "Beyond pay and legal status, researchers have identified subtler harms. Algorithmic management — where an app rather than a human supervisor monitors performance, assigns tasks, and disciplines workers — raises concerns about transparency and fairness. Workers often have little visibility into how the algorithms that govern their work actually function. Ratings systems, in which customers score workers after each interaction, can create anxiety and leave workers vulnerable to capricious or discriminatory reviews. Studies have shown that workers from ethnic minority backgrounds receive systematically lower ratings on some platforms, raising serious questions about bias baked into ostensibly neutral systems."
+        },
+        {
+          "id": "F",
+          "text": "There are those who argue that the problems of the gig economy are not intrinsic to its structure but are rather the result of policy failures. In this view, updating employment law to extend basic protections to all working people regardless of their contractual status — while preserving the flexibility that some workers genuinely value — would resolve the most serious harms. Others go further, advocating for portable benefits systems, in which entitlements to healthcare, pensions, and paid leave accumulate with the individual worker and travel with them from gig to gig, rather than being tied to any single employer."
+        },
+        {
+          "id": "G",
+          "text": "The future of the gig economy is likely to be shaped as much by technology as by policy. The ongoing development of artificial intelligence and automation raises the possibility that many gig tasks currently performed by humans — driving, delivery routing, basic data processing — will themselves be automated in the coming decades. If this occurs, the platforms that have created gig work may ultimately eliminate it. For workers who have built their livelihoods around app-based platforms, this represents a profound uncertainty — one that underlines the importance of developing more robust social safety nets capable of supporting people through repeated transitions in an ever-changing labour market."
+        }
+      ],
+      "questions": [
+        {
+          "id": 14,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph A",
+          "correctAnswer": "i. The origins and modern form of non-standard work"
+        },
+        {
+          "id": 15,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph B",
+          "correctAnswer": "v. Rapid growth and worker satisfaction claims"
+        },
+        {
+          "id": 16,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph C",
+          "correctAnswer": "iii. The hidden costs of flexible working"
+        },
+        {
+          "id": 17,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph D",
+          "correctAnswer": "ii. Legal disputes and legislative responses"
+        },
+        {
+          "id": 18,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph E",
+          "correctAnswer": "vi. How apps monitor and evaluate workers"
+        },
+        {
+          "id": 19,
+          "type": "MatchingHeadings",
+          "questionText": "Paragraph F",
+          "correctAnswer": "iv. Reforming the system without dismantling it"
+        },
+        {
+          "id": 20,
+          "type": "MCQ",
+          "questionText": "According to the passage, why are most gig workers classified as independent contractors?",
+          "options": [
+            "A. Because they prefer to set their own working hours",
+            "B. To avoid giving them standard employment protections",
+            "C. Because they work for several different clients at once",
+            "D. To allow them to earn more than salaried employees"
+          ],
+          "correctAnswer": "B. To avoid giving them standard employment protections"
+        },
+        {
+          "id": 21,
+          "type": "MCQ",
+          "questionText": "What does the passage suggest is a key problem with algorithmic management?",
+          "options": [
+            "A. It makes platforms less profitable",
+            "B. It eliminates the need for customer reviews",
+            "C. Workers lack visibility into how their performance is assessed",
+            "D. It requires significant technical training from workers"
+          ],
+          "correctAnswer": "C. Workers lack visibility into how their performance is assessed"
+        },
+        {
+          "id": 22,
+          "type": "MCQ",
+          "questionText": "What does California's Proposition 22 primarily do?",
+          "options": [
+            "A. It classifies all app-based workers as full employees",
+            "B. It bans gig economy platforms from operating in the state",
+            "C. It maintains independent contractor status while adding limited benefits",
+            "D. It requires gig platforms to pay corporate taxes at a higher rate"
+          ],
+          "correctAnswer": "C. It maintains independent contractor status while adding limited benefits"
+        },
+        {
+          "id": 23,
+          "type": "FillBlank",
+          "questionText": "The digital gig economy connects workers with clients through __________ and smartphone apps.",
+          "correctAnswer": "algorithms"
+        },
+        {
+          "id": 24,
+          "type": "FillBlank",
+          "questionText": "Critics argue that flexibility in gig work often hides an underlying __________, making income unreliable from week to week.",
+          "correctAnswer": "precarity"
+        },
+        {
+          "id": 25,
+          "type": "FillBlank",
+          "questionText": "The UK Supreme Court ruled in 2021 that Uber drivers were entitled to __________ wage protections.",
+          "correctAnswer": "minimum"
+        },
+        {
+          "id": 26,
+          "type": "FillBlank",
+          "questionText": "Under a __________ benefits system, entitlements such as pensions travel with the worker rather than being tied to one employer.",
+          "correctAnswer": "portable"
+        }
+      ],
+      "questionGroups": [
+        {
+          "groupType": "MatchingHeadings",
+          "instruction": "The reading passage has seven paragraphs A–G. Choose the correct heading for paragraphs A–F from the list of headings below. Write the correct roman numeral (i–ix) in the boxes on your answer sheet. There are more headings than paragraphs, so you will not use all of them.",
+          "sharedOptions": [
+            "i. The origins and modern form of non-standard work",
+            "ii. Legal disputes and legislative responses",
+            "iii. The hidden costs of flexible working",
+            "iv. Reforming the system without dismantling it",
+            "v. Rapid growth and worker satisfaction claims",
+            "vi. How apps monitor and evaluate workers",
+            "vii. The psychological impact of job insecurity",
+            "viii. Technology as a future threat to gig workers",
+            "ix. A comparison between global and local gig markets"
+          ],
+          "questionIds": [14, 15, 16, 17, 18, 19]
+        },
+        {
+          "groupType": "MCQ",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questionIds": [20, 21, 22]
+        },
+        {
+          "groupType": "FillBlank",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questionIds": [23, 24, 25, 26]
+        }
+      ],
+      "correctAnswers": {
+        "14": "i. The origins and modern form of non-standard work",
+        "15": "v. Rapid growth and worker satisfaction claims",
+        "16": "iii. The hidden costs of flexible working",
+        "17": "ii. Legal disputes and legislative responses",
+        "18": "vi. How apps monitor and evaluate workers",
+        "19": "iv. Reforming the system without dismantling it",
+        "20": "B. To avoid giving them standard employment protections",
+        "21": "C. Workers lack visibility into how their performance is assessed",
+        "22": "C. It maintains independent contractor status while adding limited benefits",
+        "23": "algorithms",
+        "24": "precarity",
+        "25": "minimum",
+        "26": "portable"
+      }
+    },
+    {
+      "partNumber": 3,
+      "title": "Rewilding Europe",
+      "instruction": "Read the passage and answer Questions 27–40.",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Rewilding is one of the most ambitious and contested ideas in contemporary conservation. In its broadest sense, it refers to the restoration of natural processes and wild species to ecosystems that have been degraded or simplified by human activity. Unlike traditional conservation, which often focuses on maintaining or managing existing habitats in a particular state, rewilding embraces ecological dynamism — the idea that nature, if given sufficient space and freedom from human interference, will recover and organise itself in ways that maximise biodiversity and resilience. The approach has gained enormous momentum in Europe over the past two decades, driven by a growing body of scientific evidence and a shifting public appetite for more radical environmental action."
+        },
+        {
+          "id": "B",
+          "text": "Central to many rewilding projects is the reintroduction of apex predators — animals that sit at the top of the food chain and whose presence cascades through ecosystems in far-reaching and often surprising ways. The reintroduction of wolves to Yellowstone National Park in the United States in 1995 became an iconic case study. The wolves' return suppressed elk populations, which had been overgrazing riverbanks, allowing willows and aspens to regenerate. This vegetation recovery stabilised stream banks, altered water flow, and attracted beavers, whose dams further transformed the hydrology of the park. Scientists coined the term 'trophic cascade' to describe this chain of effects triggered by the wolves' presence."
+        },
+        {
+          "id": "C",
+          "text": "In Europe, rewilding projects are at various stages of development. In the Iberian Peninsula, conservation organisations are working to establish viable wolf and Iberian lynx populations across a landscape that has been progressively depopulated by rural emigration to cities. In the Carpathian Mountains of Romania and Slovakia, one of Europe's last large wilderness areas, efforts are focused on protecting existing wolf, bear, and lynx populations from illegal hunting and habitat fragmentation. In the Netherlands, the Oostvaardersplassen nature reserve was established on reclaimed land in the 1970s and has evolved into a large area of ungrazed wetland and grassland, home to large populations of wild horses, red deer, and cattle."
+        },
+        {
+          "id": "D",
+          "text": "Despite these advances, rewilding in Europe faces formidable social and political obstacles. The return of large predators is welcomed by urban environmentalists but deeply feared by farmers and rural communities who must live alongside them. In parts of France, Italy, and Spain, wolf attacks on livestock have provoked intense hostility, leading some farming groups to campaign vigorously against rewilding initiatives. Livestock losses, though often modest in absolute terms, can be financially devastating for small-scale farmers operating on thin margins, and compensation schemes provided by governments have frequently been criticised as slow, bureaucratic, and inadequate."
+        },
+        {
+          "id": "E",
+          "text": "The scientific case for rewilding is robust but also evolving. Some ecologists caution that the Yellowstone 'trophic cascade' narrative, while broadly accurate, has been somewhat oversimplified in its popular retelling, and that the specific dynamics of ecosystem recovery will differ greatly from place to place. There is also the question of scale: most current European rewilding projects occupy a few thousand hectares at most, whereas effective rewilding of large predators requires continuous habitats spanning tens or hundreds of thousands of square kilometres. Achieving this in densely populated and heavily farmed Europe would require either large-scale land retirement — the deliberate removal of marginal agricultural land from production — or the development of landscape-scale wildlife corridors allowing species to move safely through human-dominated terrain."
+        },
+        {
+          "id": "F",
+          "text": "An intriguing sub-field of rewilding concerns the use of ecological proxies for extinct megafauna. Since many of Europe's original large herbivores — including the aurochs, the tarpan, and the woolly rhinoceros — were driven to extinction thousands of years ago, some scientists advocate using closely related or selectively bred substitutes to restore the ecological functions these animals once performed. In the Netherlands and elsewhere, Konik horses and Heck cattle are used as proxies for the wild horses and aurochs that once roamed European plains. Critics argue, however, that these animals cannot fully replicate the ecological roles of their extinct counterparts, making the ecological validity of such substitution debatable."
+        },
+        {
+          "id": "G",
+          "text": "Ultimately, rewilding challenges us to reconsider our relationship with nature and with the land. Its proponents argue that it offers not only ecological benefits — carbon sequestration, flood prevention, biodiversity recovery — but also profound social and psychological value, reconnecting people with wild places and the non-human world. Its critics respond that romanticising wilderness at the expense of rural communities and agricultural traditions is both elitist and unjust. Navigating these tensions will require thoughtful policy-making, genuine community engagement, and a willingness to accept that the landscape of the future may look very different from that of the past."
+        }
+      ],
+      "questions": [
+        {
+          "id": 27,
+          "type": "Matching",
+          "questionText": "This paragraph introduces a self-reinforcing cycle in which warming and thawing intensify each other.",
+          "correctAnswer": "Paragraph B"
+        },
+        {
+          "id": 28,
+          "type": "Matching",
+          "questionText": "This paragraph describes communities that have faced the need to abandon their traditional locations.",
+          "correctAnswer": "Paragraph D"
+        },
+        {
+          "id": 29,
+          "type": "Matching",
+          "questionText": "This paragraph discusses the scientific tools used to track changes in a natural environment.",
+          "correctAnswer": "Paragraph E"
+        },
+        {
+          "id": 30,
+          "type": "Matching",
+          "questionText": "This paragraph describes an experiment that uses animals to prevent the ground from warming.",
+          "correctAnswer": "Paragraph F"
+        },
+        {
+          "id": 31,
+          "type": "Matching",
+          "questionText": "This paragraph argues that limiting temperature rise is the only dependable long-term strategy.",
+          "correctAnswer": "Paragraph G"
+        },
+        {
+          "id": 32,
+          "type": "TFN",
+          "questionText": "Rewilding focuses on maintaining existing habitats in a fixed, managed state."
+        },
+        {
+          "id": 33,
+          "type": "TFN",
+          "questionText": "Wolves were reintroduced to Yellowstone National Park in 1995."
+        },
+        {
+          "id": 34,
+          "type": "TFN",
+          "questionText": "The Oostvaardersplassen reserve in the Netherlands was created on reclaimed land."
+        },
+        {
+          "id": 35,
+          "type": "TFN",
+          "questionText": "Government compensation schemes for livestock losses have been widely praised for their efficiency."
+        },
+        {
+          "id": 36,
+          "type": "TFN",
+          "questionText": "Some ecologists argue that the Yellowstone trophic cascade story has been oversimplified in popular accounts."
+        },
+        {
+          "id": 37,
+          "type": "FillBlank",
+          "questionText": "Rewilding embraces ecological __________, allowing nature to self-organise rather than be actively managed.",
+          "correctAnswer": "dynamism"
+        },
+        {
+          "id": 38,
+          "type": "FillBlank",
+          "questionText": "Scientists use the term __________ to describe the chain of ecosystem effects triggered by the return of apex predators.",
+          "correctAnswer": "trophic cascade"
+        },
+        {
+          "id": 39,
+          "type": "FillBlank",
+          "questionText": "In Europe, large rewilding projects would require either land retirement or the development of landscape-scale wildlife __________.",
+          "correctAnswer": "corridors"
+        },
+        {
+          "id": 40,
+          "type": "FillBlank",
+          "questionText": "Animals used as substitutes for extinct species are referred to as ecological __________.",
+          "correctAnswer": "proxies"
+        }
+      ],
+      "questionGroups": [
+        {
+          "groupType": "Matching",
+          "instruction": "The Reading Passage has seven paragraphs A–G. Which paragraph contains the following information? You may use any letter more than once.",
+          "sharedOptions": [
+            "Paragraph A",
+            "Paragraph B",
+            "Paragraph C",
+            "Paragraph D",
+            "Paragraph E",
+            "Paragraph F",
+            "Paragraph G"
+          ],
+          "questionIds": [27, 28, 29, 30, 31]
+        },
+        {
+          "groupType": "TFN",
+          "instruction": "Do the following statements agree with the claims of the writer? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+          "questionIds": [32, 33, 34, 35, 36]
+        },
+        {
+          "groupType": "FillBlank",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "questionIds": [37, 38, 39, 40]
+        }
+      ],
+      "correctAnswers": {
+        "27": "Paragraph B",
+        "28": "Paragraph D",
+        "29": "Paragraph E",
+        "30": "Paragraph F",
+        "31": "Paragraph G",
+        "32": "FALSE",
+        "33": "TRUE",
+        "34": "TRUE",
+        "35": "FALSE",
+        "36": "TRUE",
+        "37": "dynamism",
+        "38": "trophic cascade",
+        "39": "corridors",
+        "40": "proxies"
+      }
+    }
+  ]
+}
