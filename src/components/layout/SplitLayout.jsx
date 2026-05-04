@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 
-export const SplitLayout = ({
+const SplitLayout = ({
   leftPanel,
   rightPanel,
   initialLeftWidth = 50,
@@ -106,3 +106,5 @@ export const SplitLayout = ({
     </div>
   );
 };
+
+export default SplitLayout;npm 
