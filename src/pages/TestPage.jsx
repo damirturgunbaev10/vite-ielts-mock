@@ -37,8 +37,8 @@ const TestPage = () => {
   }, [type]);
 
   const sendToTelegram = async (userAnswers) => {
-    const BOT_TOKEN = "8706567323:AAHVRzNSRkQTod4K0nMnD6x5aQF685FYQe4";
-    const CHAT_ID = "1656230551";
+    const BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
+    const CHAT_ID = "YOUR_TELEGRAM_CHAT_ID";
 
     let message = `<b>📊 Your answer: ${userName}</b>\n`;
     message += `<code>--------------------------</code>\n`;
