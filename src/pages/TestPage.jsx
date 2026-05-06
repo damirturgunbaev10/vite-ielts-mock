@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import SplitLayout from "../components/layout/SplitLayout";
-import GlassCard from "../components/layout/GlassCard";
+import GlassCard from "../components/ui/CardGlass";
 
 import ReadingContent from "../features/reading/ReadingContent";
 import ReadingTask from "../features/reading/ReadingTask";

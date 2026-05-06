@@ -1,5 +1,5 @@
 import React from "react";
-import GlassCard from "../../components/layout/GlassCard";
+import GlassCard from "../../components/ui/CardGlass";
 
 const WritingTask = ({ data }) => {
   if (!data) return null;

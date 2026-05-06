@@ -1,5 +1,5 @@
 import React from "react";
-const GlassCard = ({ children, className = "", style = {} }) => {
+const CardGlass = ({ children, className = "", style = {} }) => {
   return (
     <div
       className={className}
@@ -19,4 +19,4 @@ const GlassCard = ({ children, className = "", style = {} }) => {
   );
 };
 
-export default GlassCard;
+export default CardGlass;
