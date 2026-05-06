@@ -107,4 +107,4 @@ const SplitLayout = ({
   );
 };
 
-export default SplitLayout;npm 
+export default SplitLayout;
