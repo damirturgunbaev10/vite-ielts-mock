@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import GlassCard from "../components/ui/GlassCard";
+import GlassCard from "../components/layout/GlassCard";
 
 const Home = () => {
   return (
